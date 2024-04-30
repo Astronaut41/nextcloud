@@ -1,4 +1,4 @@
-@[toc]
+@[TOC]
 # nextcloud method
 
 ## get file list on nextcloud
